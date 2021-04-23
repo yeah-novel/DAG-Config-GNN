@@ -1,0 +1,12 @@
+Event,Spark Version
+Block Manager ID,Event,Maximum Memory,Maximum Offheap Memory,Maximum Onheap Memory,Timestamp
+Classpath Entries,Event,JVM Information,Spark Properties,System Properties
+App ID,App Name,Event,Timestamp,User
+Event,Executor ID,Executor Info,Timestamp
+Event,Job ID,Properties,Stage IDs,Stage Infos,Submission Time
+Event,Properties,Stage Info
+Event,Stage Attempt ID,Stage ID,Task Info
+Event,Stage Attempt ID,Stage ID,Task End Reason,Task Info,Task Metrics,Task Type
+Event,Stage Info
+Completion Time,Event,Job ID,Job Result
+Event,Timestamp
